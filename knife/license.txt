@@ -1,0 +1,8 @@
+Model Information:
+* title:	Switch knife
+* source:	https://sketchfab.com/3d-models/switch-knife-5d910a6f6aa548f3b06b8e04e99369ad
+* author:	Lagst (https://sketchfab.com/Lagst)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
